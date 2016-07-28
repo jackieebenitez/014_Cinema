@@ -1,0 +1,95 @@
+
+/*imagenes*/
+.bordelupa{ /* borde lupa en buscador*/
+	border: 1px solid black;
+	margin-top:2%;
+}
+.lupa{ /*tamaño de lupa*/
+	width: 20px;
+	height:20px;
+}
+.icono{ /*icono big hero*/
+	height: 80px;
+	width:80px;
+	margin-top:70%;
+	margin-left:17%;
+}
+.bordeverde{ /*borde botón verde*/
+	border: 1px solid #a8d700;
+	color:#a8d700;
+	border-radius: 2%;
+}
+.back2{
+	background-color: #d3c134;
+}
+.cartelera{ 
+	height:200px;
+	width: 150px;
+	margin-left:23px;
+	margin-top:20px;
+	margin-bottom: 20px;
+}
+.cartelera2{
+	height:200;
+	width:250;
+	margin-left:50px;
+}
+footer{
+	background-color:#f4f0eb;
+	padding:40px 70px;
+}
+
+/*botones*/
+.borde1{
+	border-radius: 5px;
+	border:2px;
+	background-color: #d3c134;
+	text-align: center;
+	padding:2px;
+	width:150px;
+	height:30px;
+}
+.borde2{
+	border-radius: 5px;
+	border:2px;
+	background-color: #e2a100;
+	text-align: center;
+	padding:2px;
+	width:150px;
+	height:30px;
+}
+
+/*Tipografias-textos*/
+.fs-12{
+	font-size:12px;
+	font-family: 'Roboto', sans-serif;
+	color:gray;
+}
+.fs-12{
+	font-size:12px;
+	font-family: 'Roboto', sans-serif;
+	color:gray;
+}
+.fs-14{
+	font-size:12px;
+	font-family: 'Roboto', sans-serif;
+	color:black;
+}
+.fs-21{ /*HEADER BIG HERO*/
+	font-size:21px;
+	font-family: 'Roboto', sans-serif;
+	color:white;
+}
+.fs-20{
+	font-size:20px;
+	font-family: 'Roboto', sans-serif;
+	color:	#5c5c5c;
+}
+.fs-26{
+	font-size:26px;
+	font-family: 'Roboto', sans-serif;
+	color:	black;
+}
+.whitetext{ /*texto blanco en info de pelicula*/
+	color:white;
+}
